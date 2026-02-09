@@ -40,5 +40,5 @@ No client installation is required on the receiver's side—just a web browser i
 
 ### 1. Clone the repository / 克隆项目
 ```bash
-git clone [https://github.com/YourUsername/py-screen-share.git](https://github.com/YourUsername/py-screen-share.git)
-cd py-screen-share
+git clone [https://github.com/littlebirdnest/local_screen_share.git)
+cd local_screen_share
